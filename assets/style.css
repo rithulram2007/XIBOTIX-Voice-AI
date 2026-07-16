@@ -1,0 +1,80 @@
+body{
+    background:#0B1220;
+    font-family:Inter,sans-serif;
+}
+
+.gradio-container{
+    max-width:1150px !important;
+    margin:auto;
+    background:#0B1220;
+}
+
+.main-card{
+
+    background:#161F2E;
+
+    border-radius:18px;
+
+    padding:22px;
+
+    border:1px solid #243244;
+
+    margin-bottom:18px;
+}
+
+.title{
+
+    text-align:center;
+
+    font-size:36px;
+
+    font-weight:700;
+
+    color:#F8FAFC;
+
+    margin-bottom:8px;
+}
+
+.subtitle{
+
+    text-align:center;
+
+    color:#94A3B8;
+
+    font-size:16px;
+
+    margin-bottom:25px;
+}
+
+.status{
+
+    background:#111827;
+
+    border:1px solid #243244;
+
+    color:#22C55E;
+
+    padding:12px;
+
+    border-radius:12px;
+
+    font-size:15px;
+
+    margin-bottom:20px;
+}
+
+.section-title{
+
+    color:white;
+
+    font-size:18px;
+
+    font-weight:600;
+
+    margin-bottom:12px;
+}
+
+footer{
+
+    display:none;
+}
