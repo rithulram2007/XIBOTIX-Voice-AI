@@ -1,0 +1,11 @@
+gradio
+groq
+openai-whisper
+edge-tts
+python-dotenv
+requests
+sounddevice
+soundfile
+numpy
+torch
+ffmpeg-python
