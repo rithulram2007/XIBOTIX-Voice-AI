@@ -60,7 +60,7 @@ The project follows a modular architecture that separates speech processing, lan
 
 | Category               | Technology         |
 | ---------------------- | ------------------ |
-| Language               | Python 3.11+       |
+| Language               | Python 3.12+       |
 | Frontend               | Gradio             |
 | Speech Recognition     | OpenAI Whisper     |
 | Large Language Model   | Groq Llama 3.3     |
@@ -122,7 +122,6 @@ XIBOTIX-Voice-AI/
 ├── assistant.py
 ├── web_app_final.py
 ├── config.py
-├── .env
 ├── requirements.txt
 ├── README.md
 │
@@ -138,9 +137,6 @@ XIBOTIX-Voice-AI/
 │
 ├── assets/
 │
-├── screenshots/
-│
-└── docs/
 ```
 
 ---
@@ -244,14 +240,7 @@ Open the Gradio URL shown in the terminal.
 
 # Screenshots
 
-Add screenshots of:
-
-* Home Interface
-* Conversation Window
-* Assistant Status
-* Voice Orb Animation
-* Response Generation
-
+Screenshots demonstrating the application interface are included in the project report.
 ---
 
 # Acknowledgements
