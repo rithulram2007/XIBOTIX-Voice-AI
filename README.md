@@ -150,7 +150,7 @@ XIBOTIX-Voice-AI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/XIBOTIX-Voice-AI.git
+git clone https://github.com/rithulram2007/XIBOTIX-Voice-AI.git
 
 cd XIBOTIX-Voice-AI
 ```
